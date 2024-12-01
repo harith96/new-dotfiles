@@ -1,0 +1,81 @@
+{
+  "coc-json|global": {
+    "json-schema-cache": {
+      "http://json.schemastore.org/prettierrc": {
+        "etag": "\"079e10ba4ada1:0\"",
+        "fileName": "b2ed7a7b6c79e58baf94e4ce160282de.schema.json",
+        "updateTime": 1732264950366
+      },
+      "https://json.schemastore.org/package.json": {
+        "etag": "\"8027545973adb1:0\"",
+        "fileName": "473f72b44c2905902dfbcc770aab7f7a.schema.json",
+        "updateTime": 1732264950870
+      },
+      "https://json.schemastore.org/jscpd.json": {
+        "etag": "\"06c7f331a12db1:0\"",
+        "fileName": "22bfc1ab1ff56aae62322f6ce45dab5a.schema.json",
+        "updateTime": 1732264951880
+      },
+      "https://json.schemastore.org/semantic-release.json": {
+        "etag": "\"09e8ecc624ada1:0\"",
+        "fileName": "fbc95702ba6eddb3e2de4f52e31ca82a.schema.json",
+        "updateTime": 1732264951962
+      },
+      "https://json.schemastore.org/ava.json": {
+        "etag": "\"0d33f13698ada1:0\"",
+        "fileName": "635f57185b22bce9d3a56c68f5da4ad7.schema.json",
+        "updateTime": 1732264951880
+      },
+      "https://json.schemastore.org/prettierrc.json": {
+        "etag": "\"079e10ba4ada1:0\"",
+        "fileName": "ea5ab10330a3ab77dfd6d00a735b0925.schema.json",
+        "updateTime": 1732264952016
+      },
+      "https://json.schemastore.org/stylelintrc.json": {
+        "etag": "\"8027545973adb1:0\"",
+        "fileName": "000bfbdd14d2fb8ec5b0d59bec32ef98.schema.json",
+        "updateTime": 1732264951938
+      },
+      "https://json.schemastore.org/eslintrc.json": {
+        "etag": "\"805385dd39b8da1:0\"",
+        "fileName": "c5064f140d4cfdbf4d6fbe68f68abbb1.schema.json",
+        "updateTime": 1732264951994
+      },
+      "https://json.schemastore.org/partial-eslint-plugins.json": {
+        "etag": "\"01dc33f55f4da1:0\"",
+        "fileName": "fc7bb6e733b774ce47be6006f0b75b87.schema.json",
+        "updateTime": 1732264953051
+      },
+      "https://json.schemastore.org/tsconfig.json": {
+        "etag": "\"80a9d281d335db1:0\"",
+        "fileName": "a28507e42e8bfd5fba830538461d5db3.schema.json",
+        "updateTime": 1732216470694
+      },
+      "https://raw.githubusercontent.com/firebase/firebase-tools/master/schema/firebase-config.json": {
+        "etag": "W/\"b61921ebb7174f0a46e7750147db2a1bff358b36348112eb85e960d016be37c5\"",
+        "fileName": "5ca9602fe4d81517c139e1446a610557.schema.json",
+        "updateTime": 1731040429643
+      },
+      "https://json.schemastore.org/nest-cli": {
+        "etag": "\"08168cd7a79da1:0\"",
+        "fileName": "71f7cb72efcdb4198bbe557caba30dce.schema.json",
+        "updateTime": 1725592235666
+      },
+      "https://ui.shadcn.com/schema.json": {
+        "etag": "W/\"6de690ba2836e2e5161772674b219e01\"",
+        "fileName": "d99eec6fd7f2b46c72fe2cdaa964e70f.schema.json",
+        "updateTime": 1726051725899
+      },
+      "https://raw.githubusercontent.com/streetsidesoftware/cspell/cspell@4.0.47/cspell.schema.json": {
+        "etag": "W/\"dda8e50a20b52d78c76e7293c1589e91d4cf82ff77b399044817c15669bf60bc\"",
+        "fileName": "632ac3e1fd54dc2b63103b70735edf70.schema.json",
+        "updateTime": 1728378929967
+      },
+      "https://json.schemastore.org/micro.json": {
+        "etag": "\"801adbdf8b33da1:0\"",
+        "fileName": "920fe1b93b29e5163d46442dc15fba18.schema.json",
+        "updateTime": 1729334783581
+      }
+    }
+  }
+}

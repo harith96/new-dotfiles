@@ -12,12 +12,15 @@ return {
 		vim.keymap.set('n', '<leader>fh', builtin.help_tags, { desc = 'Telescope help tags' })
 
 		-- Return Telescope setup options (if any customization is needed)
+
+		local actions = require('telescope.actions')
 		return {
 			defaults = {
 				mappings = {
 					i = {
 						-- Example: Map <Esc> to close Telescope in insert mode
 						["<Esc>"] = require('telescope.actions').close,
+						["<C-a>"] = actions.smart_send_to_qflist + actions.open_qflist
 					},
 				},
 			},

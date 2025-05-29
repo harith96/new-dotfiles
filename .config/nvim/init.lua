@@ -41,8 +41,8 @@ vim.opt.mouse = "a"
 vim.opt.background = "dark"
 
 -- Folding
-vim.opt.foldmethod = "syntax"
-vim.opt.foldlevelstart = 99
+-- vim.opt.foldmethod = "syntax"
+-- vim.opt.foldlevelstart = 99
 
 -- Splits
 vim.opt.splitright = true

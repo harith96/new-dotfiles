@@ -86,6 +86,7 @@ alias ll='ls -la'
 alias j='z'
 alias v='nvim'
 alias g='git'
+alias lg='lazygit'
 alias c="printf '\033[2J\033[3J\033[1;1H\'"
 alias up="j devops && docker compose up --build"
 
